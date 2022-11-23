@@ -1,5 +1,5 @@
 
-## **Hello There** 
+## **Hello There 👋** 
 
 I'm a Full-stack Developer who enjoys working with React and TypeScript! I'm also passionate about game development and have a personal website where I share my interests and works at [https://shanabunny.com/](https://shanabunny.com/).
 
