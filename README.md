@@ -15,5 +15,6 @@ I'm a Full-stack Developer who enjoys working with React and TypeScript! I'm als
 ![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
+![MySQL](https://img.shields.io/badge/mysql-00758F.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
