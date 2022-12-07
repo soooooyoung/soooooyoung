@@ -3,7 +3,7 @@
 
 I'm a full-stack developer who enjoys working with React and TypeScript! I'm also passionate about game development and have a personal website where I share my interests and works at [https://shanabunny.com/](https://shanabunny.com/).
 
-## Skills 📝
+## Stacks 📝
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
