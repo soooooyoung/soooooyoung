@@ -8,6 +8,10 @@ I'm an ambitious, self-motivated fullstack web developer. I am passionate about 
 - [React Social Network Application BE (ExpressJS)](https://github.com/soooooyoung/social-app-server)
 - [Lost Ark Search Engine](https://github.com/soooooyoung/lostavatar)
 
+### Currently Learning
+
+- [NextJS](https://nextjs.org/)
+
 ### Languages
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
