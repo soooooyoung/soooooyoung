@@ -7,15 +7,7 @@ I'm an ambitious, self-motivated fullstack web developer. I am passionate about 
 - [React Social Network Application](https://github.com/soooooyoung/react-social-app)
 - [Lost Ark Search Engine](https://github.com/soooooyoung/lostavatar)
 
-##
-
-<div align="center">
-  <a href="https://github.com/soooooyoung/github-readme-stats"><img height="165em" alt="Shana's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soooooyoung&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/>
-	</a>
-</div>
-
-<details>
-    <summary><h4>## Languages and Tools 📝</h4></summary>
+## Languages and Tools 📝
 
 ### Languages
 
@@ -53,5 +45,3 @@ I'm an ambitious, self-motivated fullstack web developer. I am passionate about 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
-
-    </details>
