@@ -2,12 +2,10 @@
 
 I'm an ambitious, self-motivated fullstack web developer. I am passionate about programming and spend most of my day writing code and testing out new ideas.
 
-### Currently Working on 🔭
+### Currently Working on 
 
 - [React Social Network Application](https://github.com/soooooyoung/react-social-app)
 - [Lost Ark Search Engine](https://github.com/soooooyoung/lostavatar)
-
-## Languages and Tools 📝
 
 ### Languages
 
