@@ -2,13 +2,15 @@
 
 I'm an ambitious, self-motivated fullstack web developer. I am passionate about programming and spend most of my day writing code and testing out new ideas.
 
+
 ### Currently Working on 
 
-- [Lost Ark Search Engine](https://github.com/soooooyoung/lostavatar)
+- [Obstacle Assault](https://github.com/soooooyoung/obstacle-assault)
 
 ### Currently Learning
 
-- [NextJS](https://nextjs.org/)
+- [Unreal Engine 5](https://www.unrealengine.com/ko/unreal-engine-5)
+- C++
 
 ### Languages
 
