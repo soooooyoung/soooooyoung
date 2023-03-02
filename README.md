@@ -6,13 +6,12 @@ I'm an ambitious, self-motivated developer. I am passionate about programming an
 ### Currently Working on 
 
 - [Obstacle Assault](https://github.com/soooooyoung/obstacle-assault)
-- [CS Courses Study](https://github.com/soooooyoung/cs-courses) & [C++ Design Patterns](https://github.com/soooooyoung/design-patterns-cpp)
 - [LeetCode Solutions](https://github.com/soooooyoung/leetcode)
 
 ### Currently Learning
 
 - [Unreal Engine 5](https://www.unrealengine.com/ko/unreal-engine-5)
-- C++
+- [CS Courses Study](https://github.com/soooooyoung/cs-courses) & [C++ Design Patterns](https://github.com/soooooyoung/design-patterns-cpp)
 
 ### Languages
 
