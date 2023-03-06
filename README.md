@@ -7,7 +7,6 @@ I'm an ambitious, self-motivated developer. I am passionate about programming an
 
 - [Obstacle Assault](https://github.com/soooooyoung/obstacle-assault)
 - [LeetCode Solutions](https://github.com/soooooyoung/leetcode)
-- [Socket.Io with Express.js](https://github.com/soooooyoung/social-app-socket.io)
 
 ### Currently Learning
 
