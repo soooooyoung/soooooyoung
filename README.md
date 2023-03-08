@@ -6,6 +6,7 @@ I'm an ambitious, self-motivated developer. I am passionate about programming an
 ### Currently Working on 
 
 - [Obstacle Assault](https://github.com/soooooyoung/obstacle-assault)
+- [TCP/IP server](https://github.com/soooooyoung/tcpserver)
 - [LeetCode Solutions](https://github.com/soooooyoung/leetcode)
 
 ### Currently Learning
