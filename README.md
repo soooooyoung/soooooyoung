@@ -5,7 +5,6 @@ I'm an ambitious, self-motivated developer. I am passionate about programming an
 
 ### Currently Working on 
 
-- [Obstacle Assault](https://github.com/soooooyoung/obstacle-assault)
 - [TCP/IP server](https://github.com/soooooyoung/tcpserver)
 
 ### Currently Learning
@@ -45,7 +44,7 @@ I'm an ambitious, self-motivated developer. I am passionate about programming an
 
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
 
-### Other
+### Infrastructure
 
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
