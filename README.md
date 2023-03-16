@@ -1,6 +1,6 @@
 ## **Hello I'm Sooyoung 👋**
 
-I'm an ambitious, self-motivated developer. I am passionate about programming and spend most of my day writing code and testing out new ideas.
+I'm an ambitious, self-motivated developer. I am passionate about programming and spend most of my day writing code and testing out new ideas. I am currently studying socket programming and C++ to pursue a career in server programming.
 
 
 ### Currently Working on 
