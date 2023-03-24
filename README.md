@@ -5,10 +5,12 @@ I'm an ambitious, self-motivated developer. I am passionate about programming an
 
 ### Currently Working on 
 
+- [Unity Client Demo](https://github.com/soooooyoung/unity-client-demo)
 - [TCP/IP server](https://github.com/soooooyoung/tcpserver)
 
 ### Currently Learning
 
+- [Unity](https://unity.com/)
 - [Unreal Engine 5](https://www.unrealengine.com/ko/unreal-engine-5)
 - [CS Courses Study](https://github.com/soooooyoung/cs-courses) 
 - [C++ Design Patterns](https://github.com/soooooyoung/design-patterns-cpp)
