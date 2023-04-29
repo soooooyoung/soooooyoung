@@ -3,15 +3,10 @@
 I'm an ambitious, self-motivated developer. I am passionate about programming and spend most of my day writing code and testing out new ideas. I am currently studying socket programming and C++ to pursue a career in server programming.
 
 
-### Currently Working on 
+### Currently Working as a C++ Server Programmer 
 
-- [Unity Client Demo](https://github.com/soooooyoung/unity-client-demo)
-- [TCP/IP server](https://github.com/soooooyoung/tcpserver)
+### Learning History
 
-### Currently Learning
-
-- [Unity](https://unity.com/)
-- [Unreal Engine 5](https://www.unrealengine.com/ko/unreal-engine-5)
 - [CS Courses Study](https://github.com/soooooyoung/cs-courses) 
 - [C++ Design Patterns](https://github.com/soooooyoung/design-patterns-cpp)
 - [LeetCode Solutions](https://github.com/soooooyoung/leetcode)
