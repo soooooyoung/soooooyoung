@@ -7,7 +7,7 @@ I'm an ambitious, self-motivated developer. I am passionate about programming an
 - Working as a C++ Server Programmer 
 
 ### Learning History
-
+- [Personal Blog](https://shanabunny.com/)
 - [CS Courses Study](https://github.com/soooooyoung/cs-courses) 
 - [C++ Design Patterns](https://github.com/soooooyoung/design-patterns-cpp)
 - [LeetCode Solutions](https://github.com/soooooyoung/leetcode)
