@@ -5,7 +5,7 @@ I'm an ambitious, self-motivated developer. I am passionate about programming an
 ### Currently 
 
 - working as a C++ server programmer
-- preparing blog renewal (relaunch with Next.js)
+- preparing blog renewal (relaunch with React)
 
 ### Learning History
 - [Personal Blog](https://shanabunny.com/)
