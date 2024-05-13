@@ -2,11 +2,6 @@
 
 I'm an ambitious, self-motivated developer. I am passionate about programming and spend most of my day writing code and testing out new ideas. 
 
-### Currently 
-
-- working as a C++ server programmer
-- preparing blog renewal (relaunch with React)
-
 ### Learning History
 - [Personal Blog](https://shanabunny.com/)
 - [CS Courses Study](https://github.com/soooooyoung/cs-courses) 
