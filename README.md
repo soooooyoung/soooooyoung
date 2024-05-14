@@ -1,6 +1,5 @@
 ## **Hello I'm Sooyoung 👋**
 
-I'm an ambitious, self-motivated developer. I am passionate about programming and spend most of my day writing code and testing out new ideas. 
 
 ### Learning History
 - [Personal Blog](https://shanabunny.com/)
